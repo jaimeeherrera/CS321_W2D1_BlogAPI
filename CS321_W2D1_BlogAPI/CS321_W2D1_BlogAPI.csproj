@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <StartupObject>CS321_W2D1_BlogAPI.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
